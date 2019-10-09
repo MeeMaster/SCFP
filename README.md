@@ -1,0 +1,2 @@
+# SCFP
+Substructural Connectivity FingerPrint
