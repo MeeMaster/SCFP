@@ -1,0 +1,9 @@
+name: scfp
+channels:
+  - rdkit
+dependencies:
+  - rdkit
+  - tqdm
+  - numpy
+prefix: /opt/conda/envs/scfp
+
