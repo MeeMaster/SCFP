@@ -6,8 +6,10 @@ The required dependencies are listed in the `environment.yml` file.
 
 To install using anaconda use:
 
-```conda env create environment.yml
-conda activate scfp```
+```
+conda env create environment.yml
+conda activate scfp
+```
 
 ## Usage
 Basic usage:
